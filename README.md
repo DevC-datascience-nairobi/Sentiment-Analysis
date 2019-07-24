@@ -3,7 +3,7 @@
 Task Sentimental Analysis
 =========
 
-This tool is an implementation of the [Twitter Sentiment analysis tool][1] 
+This tool is an implementation of the [Sentiment analysis tool][1] 
 described on [Laurent Luce's blog][2].
 
 Requirements
