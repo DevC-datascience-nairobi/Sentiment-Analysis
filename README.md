@@ -1,6 +1,6 @@
 # Team-Nairobi
 
-Task Sentimental Analysis
+Task Sentimental Analysis - Python
 =========
 
 This tool is an implementation of the [Sentiment analysis tool][1] 
