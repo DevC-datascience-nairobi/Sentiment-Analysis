@@ -30,6 +30,23 @@ Or run the following commands:
     
 Ready to go.
 
+Data collection
+--------------
+I did three separate data queries using Tweepy API. The Key words were:
+1. #hudumabill2019
+2. #HudumaNamba
+3. #HudumaNumber
+
+this collected three disctinct data sets
+namely:
+Hudumabill.txt
+HudumaNamba.txt
+HudumaNumber.txt
+
+Data cleaning
+======================
+
+
 Training data
 -------------
 
